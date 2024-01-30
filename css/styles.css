@@ -1,0 +1,27 @@
+.dog{
+    background-color: red;
+}
+
+body{
+    font-family: Montserrat;
+
+    font-weight: bold;
+}      
+.text-center{
+    font-size: 40px;
+    line-height: 1.5;
+    color: #fff;
+}
+
+/*nav-bar*/
+.navbar {
+    height: 80px; /* Change the height as desired */
+}
+
+.navbar-brand {
+    font-size: 24px; /* Change the font size as desired */
+}
+
+.navbar-brand.tinDog {
+    font-size: 36px; /* Change the font size for tinDog brand */
+}
